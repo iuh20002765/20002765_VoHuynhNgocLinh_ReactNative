@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
   buttonView: {
     marginTop: 50,
     flexDirection: "row",
-    justifyContent: "space-around",
+    gap: 20,
   },
   button: {
     alignItems: "center",
